@@ -6,5 +6,7 @@ The code generates an Text Files with all passwords that get generated on app.
 Python librarys that i used:
 
 1) PyQt6
-2) Built-in Librarys (os and sys)
+2) Os
+3) Sys
+4) Random
 
